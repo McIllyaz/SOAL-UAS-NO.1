@@ -1,3 +1,4 @@
+# MATERI ENKAPSULASI
 Pada materi encapsulasi ini saya mencoba untuk membuat sebuah program yang sangat sederhana yaitu input data diri, data yang diinputkan berupa nama, umur, pekerjaan dan uang saku. Yang dimana variable nya menggunakan private, protected, dan internal untuk menyimpan informasi pada objek yang dibuat dari class tersebut. 
 
 Variable tersebut menggunakan property yang didefinisikan dalam kelas tersebut (Data.cs) Properti memberikan akses kontrol dan abstraksi untuk membaca dan menulis nilai variabel anggota. Perlu dicatat bahwa akses langsung ke variabel anggota (NAMA, UMUR, dan PEKERJAAN) tidak diperbolehkan dari luar kelas, karena mereka memiliki aksesibilitas yang lebih rendah (private, protected, dan internal).
