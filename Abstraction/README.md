@@ -1,3 +1,4 @@
+# MATERI ABSTRAKSI
 Pada materi Abstraction ini saya membuat sebuah program menghitung sebuah volume bangun ruang, diantaranya adalah kubus, balok, kerucut, tabung, dan limas. Jadi user hanya diminta untuk menginputkan data yang diperlukan, sebagai contoh balok dengan rumus volume Panjang * Lebar * Tinggi, maka user hanya diminta untuk menginput panjang, lebar, dan tinggi nya saja tanpa menginputkan rumus.
 
 Pada program ini saya menggunakan sebuah kelas dan metode abstrak yaitu “abstract class BangunRuang” dan “abstract double HitungVolume()”. Kenapa? Dengan menggunakan abstract class, kita dapat membuat kerangka kerja yang lebih fleksibel dan memungkinkan adanya variasi dalam perilaku kelas turunan yang spesifik. Selain itu, penggunaan abstract class juga membantu menerapkan prinsip-prinsip OOP seperti polimorfisme, enkapsulasi, dan pewarisan. 
