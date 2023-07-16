@@ -1,3 +1,4 @@
+# MATERI POLYMORPHISME
 Pada materi Polymorphism saya membuat sebuah program menghitung sebuah luas bangun datar, diantaranya adalah persegi, persegi panjang, lingkaran, segitiga, dan trapesium. Jadi user hanya diminta untuk menginputkan data yang diperlukan, sebagai contoh segitiga dengan luas Alas * Tinggi / 2, maka user hanya diminta untuk menginput alas dan tinggi nya saja saja tanpa menginputkan rumus.
 
 Pada program ini saya menggunakan sebuah kelas dan metode abstrak yaitu “abstract class BangunDatar” dan “abstract double HitungArea()”. Kenapa? Dengan menggunakan abstract class, kita dapat membuat kerangka kerja yang lebih fleksibel dan memungkinkan adanya variasi dalam perilaku kelas turunan yang spesifik. Selain itu, penggunaan abstract class juga membantu menerapkan prinsip-prinsip OOP seperti polimorfisme, enkapsulasi, dan pewarisan. 
